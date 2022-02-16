@@ -21,3 +21,4 @@ X-TipoRicevuta,,mail,,[RFC6109]
 X-Trasporto,,mail,,[RFC6109]
 X-VerificaSicurezza,,mail,,[RFC6109]
 X-Authentication-Warning,, ,, 
+localhost,, ,,
